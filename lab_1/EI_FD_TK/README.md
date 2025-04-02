@@ -1,3 +1,3 @@
-Egor Iachmennikov 468202 /n
-Fedor Demyanov 471882 /n
+Egor Iachmennikov 468202
+Fedor Demyanov 471882 
 Tasya Kuznetsova 466397
